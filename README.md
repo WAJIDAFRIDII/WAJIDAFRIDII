@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: IWajidAfridi7@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 😄 My website: https://WAJIDAFRIDI.net
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
